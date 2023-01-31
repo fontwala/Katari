@@ -1,4 +1,4 @@
-![Katari](https://github.com/Fontwala/Katari/documentation/Katari_Github_graphic.png)
+![Katari](https://github.com/fontwala/Katari/tree/main/documentation/Katari_Github_graphic.png)
 ## Katari
 
 **About Katari**
